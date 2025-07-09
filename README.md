@@ -28,7 +28,7 @@ Analysis of  customer behavior, retention, and lifetime value for an e-commerce 
 
 **📈 Visualization:**
 
-![Customersegmentation](<../images/Customer segmentation.png>)
+![Customer Segmentation](<images/Customer segmentation.png>)
 
 📊 **Key findings:** 
 - High-value segment (25% of customers) drive 66% of revenue ($135.4M)
@@ -50,11 +50,11 @@ Analysis of  customer behavior, retention, and lifetime value for an e-commerce 
 **📈 visualization:**
 Customer Revenue by Cohort (Adjusted for time in market) - first pucrhase date
 
-![Customer Revenue Normalized](../images/image.png)
+![Revenue Normalized](images/image.png)
 
 Inverigate Monthly & Customer trends (3 Months Rolling Average)
 
-![Monthly Revenue & CustomerTrends](../images/Figure_1.png)
+![Monthly Revenue & CustomerTrends](images/Figure_1.png)
 
 📊**Key Findings:**
 -Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending  dropped tp ~$1,970.
@@ -75,7 +75,7 @@ Inverigate Monthly & Customer trends (3 Months Rolling Average)
 
 **📈 Visulaization:**
 
-![Customer Churn by Cohort Year](../images/Figure_2.png)
+![Customer Churn by Cohort Year](images/Figure_2.png)
 
 📊 **Key Findings:**
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
